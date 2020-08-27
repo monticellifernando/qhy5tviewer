@@ -24,10 +24,12 @@ Just clone it:
 Compile it:
 =========
 
-   mkdir build
-   cmake ../qhy5tviewer
-   make
-
+```
+mkdir build
+cd build
+cmake ../qhy5tviewer
+make
+```
 
 It was easy right?. Now you need to install few things. I.e. those in etc here, just copy them in your system (under /etc/) it should just work
 
