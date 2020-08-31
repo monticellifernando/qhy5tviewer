@@ -25,11 +25,9 @@ Compile it:
 =========
 
 ```
-mkdir build
-cd build
-cmake ../qhy5tviewer
-make
+cd qhy5tviewer
+./build.sh
 ```
 
-It was easy right?. Now you need to install few things. I.e. those in etc here, just copy them in your system (under /etc/) it should just work
+It was easy right?. Now you need to install few things. I.e. those in etc here, just copy them in your system (under /etc/) it should just work. To load the firmware it needs fxload tool
 
