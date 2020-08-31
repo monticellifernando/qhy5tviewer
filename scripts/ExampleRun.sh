@@ -1,0 +1,15 @@
+ qhy5tviewer -x1920 -y 1080 -t 10 -g 1 -o lun
+ qhy5tviewer -x1920 -y 1080 -t 5 -g 2 -o lun
+ qhy5tviewer -x1920 -y 1080 -t 10 -g 2 -o lun0
+ qhy5tviewer -x1920 -y 1080 -t 10 -g 3 -o lun0
+ qhy5tviewer -x1920 -y 1080 -t 20 -g 3 -o lun0
+ qhy5tviewer -x1920 -y 1080 -t 50 -g 1 -o lun0
+ qhy5tviewer -x1920 -y 1080 -t 30 -g 1 -o lun0
+ qhy5tviewer -x1920 -y 1080 -t 20 -g 1 -o lun0
+ qhy5tviewer -x1920 -y 1080 -t 15 -g 1 -o lun0
+ qhy5tviewer -x1920 -y 1080 -t 50 -g 2 -o lun1
+ qhy5tviewer -x1920 -y 1080 -t 75 -g 2 -o lun1
+ qhy5tviewer -x1920 -y 1080 -t 100 -g 2 -o lun1
+ qhy5tviewer -x1920 -y 1080 -t 100 -g 2 -o lun1
+ qhy5tviewer -x1920 -y 1080 -t w00 -g 2 -o lun1
+ qhy5tviewer -x1920 -y 1080 -t 200 -g 2 -o lun1
